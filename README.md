@@ -11,7 +11,7 @@
 | Day 7 | [--- Day 7: Camel Cards ---](https://adventofcode.com/2023/day/7) | Solved |
 | Day 8 | [--- Day 8: Haunted Wasteland ---](https://adventofcode.com/2023/day/8) | Solved |
 | Day 9 | [--- Day 9: Mirage Maintenance ---](https://adventofcode.com/2023/day/9) | Solved |
-| Day 10 | [](https://adventofcode.com/2023/day/10) | Unsolved |
+| Day 10 | [--- Day 10: Pipe Maze ---](https://adventofcode.com/2023/day/10) | Partially Solved |
 | Day 11 | [](https://adventofcode.com/2023/day/11) | Unsolved |
 | Day 12 | [](https://adventofcode.com/2023/day/12) | Unsolved |
 | Day 13 | [](https://adventofcode.com/2023/day/13) | Unsolved |
